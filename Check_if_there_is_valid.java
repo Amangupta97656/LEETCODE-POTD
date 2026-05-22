@@ -1,9 +1,6 @@
 
 
 
-
-
-
 class Solution {
     public boolean hasValidPath(int[][] grid) {
         int rows = grid.length, cols = grid[0].length;
