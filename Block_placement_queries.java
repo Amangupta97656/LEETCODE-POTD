@@ -1,3 +1,4 @@
+
 class Solution {
     class SegTree {
         int n;
