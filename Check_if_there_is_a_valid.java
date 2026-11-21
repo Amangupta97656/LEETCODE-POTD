@@ -6,6 +6,8 @@ class Solution {
         Pair(int row,int col,int value){
             this.row=row;
             this.col=col;
+
+            
             this.value=value;
         }
     }
